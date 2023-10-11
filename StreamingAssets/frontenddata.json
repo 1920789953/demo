@@ -1,0 +1,771 @@
+[{
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10001/RadarTrigger/initialize",
+		"xcoord": "-7.75",
+		"cartype": "LaneLight",
+		"name": "A1",
+		"receiveMessageUrl": "http://47.106.213.24:10001/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10002/webSocket",
+		"id": 1,
+		"ycoord": "1.5",
+		"group": "A"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10003/RadarTrigger/initialize",
+		"xcoord": "-7.75",
+		"cartype": "LaneLight",
+		"name": "A2",
+		"receiveMessageUrl": "http://47.106.213.24:10003/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10004/webSocket",
+		"id": 2,
+		"ycoord": "0.3",
+		"group": "A"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10005/RadarTrigger/initialize",
+		"xcoord": "-7.75",
+		"cartype": "LaneLight",
+		"name": "A3",
+		"receiveMessageUrl": "http://47.106.213.24:10005/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10006/webSocket",
+		"id": 3,
+		"ycoord": "-0.9",
+		"group": "A"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10007/RadarTrigger/initialize",
+		"xcoord": "-7.75",
+		"cartype": "LaneLight",
+		"name": "A4",
+		"receiveMessageUrl": "http://47.106.213.24:10007/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10008/webSocket",
+		"id": 4,
+		"ycoord": "-2.1",
+		"group": "A"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10009/RadarTrigger/initialize",
+		"xcoord": "-7.75",
+		"cartype": "LaneLight",
+		"name": "A5",
+		"receiveMessageUrl": "http://47.106.213.24:10009/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10010/webSocket",
+		"id": 5,
+		"ycoord": "-3.3",
+		"group": "A"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10011/RadarTrigger/initialize",
+		"xcoord": "-7.75",
+		"cartype": "LaneLight",
+		"name": "A6",
+		"receiveMessageUrl": "http://47.106.213.24:10011/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10012/webSocket",
+		"id": 6,
+		"ycoord": "-4.5",
+		"group": "A"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10013/RadarTrigger/initialize",
+		"xcoord": "-3.32",
+		"cartype": "LaneLight",
+		"name": "B7",
+		"receiveMessageUrl": "http://47.106.213.24:10013/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10014/webSocket",
+		"id": 7,
+		"ycoord": "1.5",
+		"group": "B"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10015/RadarTrigger/initialize",
+		"xcoord": "-3.32",
+		"cartype": "LaneLight",
+		"name": "B8",
+		"receiveMessageUrl": "http://47.106.213.24:10015/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10016/webSocket",
+		"id": 8,
+		"ycoord": "0.3",
+		"group": "B"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10017/RadarTrigger/initialize",
+		"xcoord": "-3.32",
+		"cartype": "LaneLight",
+		"name": "B9",
+		"receiveMessageUrl": "http://47.106.213.24:10017/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10018/webSocket",
+		"id": 9,
+		"ycoord": "-0.9",
+		"group": "B"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10019/RadarTrigger/initialize",
+		"xcoord": "-3.32",
+		"cartype": "LaneLight",
+		"name": "B10",
+		"receiveMessageUrl": "http://47.106.213.24:10019/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10020/webSocket",
+		"id": 10,
+		"ycoord": "-2.1",
+		"group": "B"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10021/RadarTrigger/initialize",
+		"xcoord": "-3.32",
+		"cartype": "LaneLight",
+		"name": "B11",
+		"receiveMessageUrl": "http://47.106.213.24:10021/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10022/webSocket",
+		"id": 11,
+		"ycoord": "-3.3",
+		"group": "B"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10023/RadarTrigger/initialize",
+		"xcoord": "-3.32",
+		"cartype": "LaneLight",
+		"name": "B12",
+		"receiveMessageUrl": "http://47.106.213.24:10023/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10024/webSocket",
+		"id": 12,
+		"ycoord": "-4.5",
+		"group": "B"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10025/RadarTrigger/initialize",
+		"xcoord": "3.03",
+		"cartype": "LaneLight",
+		"name": "C13",
+		"receiveMessageUrl": "http://47.106.213.24:10025/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10026/webSocket",
+		"id": 13,
+		"ycoord": "1.5",
+		"group": "C"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10027/RadarTrigger/initialize",
+		"xcoord": "3.03",
+		"cartype": "LaneLight",
+		"name": "C14",
+		"receiveMessageUrl": "http://47.106.213.24:10027/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10028/webSocket",
+		"id": 14,
+		"ycoord": "0.3",
+		"group": "C"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10029/RadarTrigger/initialize",
+		"xcoord": "3.03",
+		"cartype": "LaneLight",
+		"name": "C15",
+		"receiveMessageUrl": "http://47.106.213.24:10029/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10030/webSocket",
+		"id": 15,
+		"ycoord": "-0.9",
+		"group": "C"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10031/RadarTrigger/initialize",
+		"xcoord": "3.03",
+		"cartype": "LaneLight",
+		"name": "C16",
+		"receiveMessageUrl": "http://47.106.213.24:10031/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10032/webSocket",
+		"id": 16,
+		"ycoord": "-2.1",
+		"group": "C"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10033/RadarTrigger/initialize",
+		"xcoord": "3.03",
+		"cartype": "LaneLight",
+		"name": "C17",
+		"receiveMessageUrl": "http://47.106.213.24:10033/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10034/webSocket",
+		"id": 17,
+		"ycoord": "-3.3",
+		"group": "C"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10035/RadarTrigger/initialize",
+		"xcoord": "3.03",
+		"cartype": "LaneLight",
+		"name": "C18",
+		"receiveMessageUrl": "http://47.106.213.24:10035/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10036/webSocket",
+		"id": 18,
+		"ycoord": "-4.5",
+		"group": "C"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10037/RadarTrigger/initialize",
+		"xcoord": "-7.75",
+		"cartype": "LaneLight",
+		"name": "D19",
+		"receiveMessageUrl": "http://47.106.213.24:10037/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10038/webSocket",
+		"id": 19,
+		"ycoord": "3",
+		"group": "D"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10039/RadarTrigger/initialize",
+		"xcoord": "-6.25",
+		"cartype": "LaneLight",
+		"name": "D20",
+		"receiveMessageUrl": "http://47.106.213.24:10039/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10040/webSocket",
+		"id": 20,
+		"ycoord": "3",
+		"group": "D"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10041/RadarTrigger/initialize",
+		"xcoord": "-4.75",
+		"cartype": "LaneLight",
+		"name": "D21",
+		"receiveMessageUrl": "http://47.106.213.24:10041/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10042/webSocket",
+		"id": 21,
+		"ycoord": "3",
+		"group": "D"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10043/RadarTrigger/initialize",
+		"xcoord": "-3.25",
+		"cartype": "LaneLight",
+		"name": "D22",
+		"receiveMessageUrl": "http://47.106.213.24:10043/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10044/webSocket",
+		"id": 22,
+		"ycoord": "3",
+		"group": "D"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10045/RadarTrigger/initialize",
+		"xcoord": "-1.75",
+		"cartype": "LaneLight",
+		"name": "D23",
+		"receiveMessageUrl": "http://47.106.213.24:10045/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10046/webSocket",
+		"id": 23,
+		"ycoord": "3",
+		"group": "D"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10047/RadarTrigger/initialize",
+		"xcoord": "-0.25",
+		"cartype": "LaneLight",
+		"name": "D24",
+		"receiveMessageUrl": "http://47.106.213.24:10047/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10048/webSocket",
+		"id": 24,
+		"ycoord": "3",
+		"group": "D"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10049/RadarTrigger/initialize",
+		"xcoord": "1.25",
+		"cartype": "LaneLight",
+		"name": "D25",
+		"receiveMessageUrl": "http://47.106.213.24:10049/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10050/webSocket",
+		"id": 25,
+		"ycoord": "3",
+		"group": "D"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10051/RadarTrigger/initialize",
+		"xcoord": "2.75",
+		"cartype": "LaneLight",
+		"name": "D26",
+		"receiveMessageUrl": "http://47.106.213.24:10051/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10052/webSocket",
+		"id": 26,
+		"ycoord": "3",
+		"group": "D"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10053/RadarTrigger/initialize",
+		"xcoord": "-5.5",
+		"cartype": "ParkingLight",
+		"name": "E27",
+		"receiveMessageUrl": "http://47.106.213.24:10053/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10054/webSocket",
+		"id": 27,
+		"ycoord": "-4.65",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10055/RadarTrigger/initialize",
+		"xcoord": "-5.5",
+		"cartype": "ParkingLight",
+		"name": "E28",
+		"receiveMessageUrl": "http://47.106.213.24:10055/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10056/webSocket",
+		"id": 28,
+		"ycoord": "-3.75",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10057/RadarTrigger/initialize",
+		"xcoord": "-5.5",
+		"cartype": "ParkingLight",
+		"name": "E29",
+		"receiveMessageUrl": "http://47.106.213.24:10057/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10058/webSocket",
+		"id": 29,
+		"ycoord": "-2.85",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10059/RadarTrigger/initialize",
+		"xcoord": "-5.5",
+		"cartype": "ParkingLight",
+		"name": "E30",
+		"receiveMessageUrl": "http://47.106.213.24:10059/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10060/webSocket",
+		"id": 30,
+		"ycoord": "-1.95",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10061/RadarTrigger/initialize",
+		"xcoord": "-5.5",
+		"cartype": "ParkingLight",
+		"name": "E31",
+		"receiveMessageUrl": "http://47.106.213.24:10061/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10062/webSocket",
+		"id": 31,
+		"ycoord": "-0.6",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10063/RadarTrigger/initialize",
+		"xcoord": "-5.5",
+		"cartype": "ParkingLight",
+		"name": "E32",
+		"receiveMessageUrl": "http://47.106.213.24:10063/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10064/webSocket",
+		"id": 32,
+		"ycoord": "0.3",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10065/RadarTrigger/initialize",
+		"xcoord": "-5.5",
+		"cartype": "ParkingLight",
+		"name": "E33",
+		"receiveMessageUrl": "http://47.106.213.24:10065/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10066/webSocket",
+		"id": 33,
+		"ycoord": "1.2",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10067/RadarTrigger/initialize",
+		"xcoord": "-1",
+		"cartype": "ParkingLight",
+		"name": "E34",
+		"receiveMessageUrl": "http://47.106.213.24:10067/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10068/webSocket",
+		"id": 34,
+		"ycoord": "-4.65",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10069/RadarTrigger/initialize",
+		"xcoord": "-1",
+		"cartype": "ParkingLight",
+		"name": "E35",
+		"receiveMessageUrl": "http://47.106.213.24:10069/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10070/webSocket",
+		"id": 35,
+		"ycoord": "-3.75",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10071/RadarTrigger/initialize",
+		"xcoord": "-1",
+		"cartype": "ParkingLight",
+		"name": "E36",
+		"receiveMessageUrl": "http://47.106.213.24:10071/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10072/webSocket",
+		"id": 36,
+		"ycoord": "-2.85",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10073/RadarTrigger/initialize",
+		"xcoord": "-1",
+		"cartype": "ParkingLight",
+		"name": "E37",
+		"receiveMessageUrl": "http://47.106.213.24:10073/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10074/webSocket",
+		"id": 37,
+		"ycoord": "-1.95",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10075/RadarTrigger/initialize",
+		"xcoord": "-1",
+		"cartype": "ParkingLight",
+		"name": "E38",
+		"receiveMessageUrl": "http://47.106.213.24:10075/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10076/webSocket",
+		"id": 38,
+		"ycoord": "-0.6",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10077/RadarTrigger/initialize",
+		"xcoord": "-1",
+		"cartype": "ParkingLight",
+		"name": "E39",
+		"receiveMessageUrl": "http://47.106.213.24:10077/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10078/webSocket",
+		"id": 39,
+		"ycoord": "0.3",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10079/RadarTrigger/initialize",
+		"xcoord": "-1",
+		"cartype": "ParkingLight",
+		"name": "E40",
+		"receiveMessageUrl": "http://47.106.213.24:10079/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10080/webSocket",
+		"id": 40,
+		"ycoord": "1.2",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10081/RadarTrigger/initialize",
+		"xcoord": "0.8",
+		"cartype": "ParkingLight",
+		"name": "E41",
+		"receiveMessageUrl": "http://47.106.213.24:10081/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10082/webSocket",
+		"id": 41,
+		"ycoord": "-4.65",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10083/RadarTrigger/initialize",
+		"xcoord": "0.8",
+		"cartype": "ParkingLight",
+		"name": "E42",
+		"receiveMessageUrl": "http://47.106.213.24:10083/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10084/webSocket",
+		"id": 42,
+		"ycoord": "-3.75",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10085/RadarTrigger/initialize",
+		"xcoord": "0.8",
+		"cartype": "ParkingLight",
+		"name": "E43",
+		"receiveMessageUrl": "http://47.106.213.24:10085/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10086/webSocket",
+		"id": 43,
+		"ycoord": "-2.85",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10087/RadarTrigger/initialize",
+		"xcoord": "0.8",
+		"cartype": "ParkingLight",
+		"name": "E44",
+		"receiveMessageUrl": "http://47.106.213.24:10087/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10088/webSocket",
+		"id": 44,
+		"ycoord": "-1.95",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10089/RadarTrigger/initialize",
+		"xcoord": "0.8",
+		"cartype": "ParkingLight",
+		"name": "E45",
+		"receiveMessageUrl": "http://47.106.213.24:10089/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10090/webSocket",
+		"id": 45,
+		"ycoord": "-0.6",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10091/RadarTrigger/initialize",
+		"xcoord": "0.8",
+		"cartype": "ParkingLight",
+		"name": "E46",
+		"receiveMessageUrl": "http://47.106.213.24:10091/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10092/webSocket",
+		"id": 46,
+		"ycoord": "0.3",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10093/RadarTrigger/initialize",
+		"xcoord": "0.8",
+		"cartype": "ParkingLight",
+		"name": "E47",
+		"receiveMessageUrl": "http://47.106.213.24:10093/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10094/webSocket",
+		"id": 47,
+		"ycoord": "1.2",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10095/RadarTrigger/initialize",
+		"xcoord": "5.5",
+		"cartype": "ParkingLight",
+		"name": "E48",
+		"receiveMessageUrl": "http://47.106.213.24:10095/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10096/webSocket",
+		"id": 48,
+		"ycoord": "-4.65",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10097/RadarTrigger/initialize",
+		"xcoord": "5.5",
+		"cartype": "ParkingLight",
+		"name": "E49",
+		"receiveMessageUrl": "http://47.106.213.24:10097/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10098/webSocket",
+		"id": 49,
+		"ycoord": "-3.75",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10099/RadarTrigger/initialize",
+		"xcoord": "5.5",
+		"cartype": "ParkingLight",
+		"name": "E50",
+		"receiveMessageUrl": "http://47.106.213.24:10099/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10100/webSocket",
+		"id": 50,
+		"ycoord": "-2.85",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10101/RadarTrigger/initialize",
+		"xcoord": "5.5",
+		"cartype": "ParkingLight",
+		"name": "E51",
+		"receiveMessageUrl": "http://47.106.213.24:10101/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10102/webSocket",
+		"id": 51,
+		"ycoord": "-1.55",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10103/RadarTrigger/initialize",
+		"xcoord": "5.5",
+		"cartype": "ParkingLight",
+		"name": "E52",
+		"receiveMessageUrl": "http://47.106.213.24:10103/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10104/webSocket",
+		"id": 52,
+		"ycoord": "-0.6",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10105/RadarTrigger/initialize",
+		"xcoord": "5.5",
+		"cartype": "ParkingLight",
+		"name": "E53",
+		"receiveMessageUrl": "http://47.106.213.24:10105/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10106/webSocket",
+		"id": 53,
+		"ycoord": "1.55",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10107/RadarTrigger/initialize",
+		"xcoord": "5.5",
+		"cartype": "ParkingLight",
+		"name": "E54",
+		"receiveMessageUrl": "http://47.106.213.24:10107/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10108/webSocket",
+		"id": 54,
+		"ycoord": "2.5",
+		"group": "E"
+	}
+}, {
+	"carArr": [],
+	"device": {
+		"luminance": "80",
+		"posturl": "http://47.106.213.24:10109/RadarTrigger/initialize",
+		"xcoord": "5.5",
+		"cartype": "ParkingLight",
+		"name": "E55",
+		"receiveMessageUrl": "http://47.106.213.24:10109/RadarTrigger/radarTrigger",
+		"wxurl": "ws://47.106.213.24:10110/webSocket",
+		"id": 55,
+		"ycoord": "3.4",
+		"group": "E"
+	}
+}]
